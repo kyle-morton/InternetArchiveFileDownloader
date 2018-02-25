@@ -28,6 +28,7 @@ namespace ArchiveDownloader
             }
             catch(Exception ex) {
                 Console.WriteLine("Exception: " + ex);
+                Console.ReadKey();
 
                 //restart app
                 var info = new ProcessStartInfo(Environment.GetCommandLineArgs()[0]);

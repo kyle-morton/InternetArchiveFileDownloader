@@ -1,0 +1,10 @@
+C:\Users\kylem\source\repos\ArchiveDownloader\ArchiveDownloader\bin\Debug\JS\source-links.json
+C:\Users\kylem\source\repos\ArchiveDownloader\ArchiveDownloader\bin\Debug\ArchiveDownloader.exe.config
+C:\Users\kylem\source\repos\ArchiveDownloader\ArchiveDownloader\bin\Debug\ArchiveDownloader.exe
+C:\Users\kylem\source\repos\ArchiveDownloader\ArchiveDownloader\bin\Debug\ArchiveDownloader.pdb
+C:\Users\kylem\source\repos\ArchiveDownloader\ArchiveDownloader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kylem\source\repos\ArchiveDownloader\ArchiveDownloader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kylem\source\repos\ArchiveDownloader\ArchiveDownloader\obj\Debug\ArchiveDownloader.csprojResolveAssemblyReference.cache
+C:\Users\kylem\source\repos\ArchiveDownloader\ArchiveDownloader\obj\Debug\ArchiveDownloader.csproj.CoreCompileInputs.cache
+C:\Users\kylem\source\repos\ArchiveDownloader\ArchiveDownloader\obj\Debug\ArchiveDownloader.exe
+C:\Users\kylem\source\repos\ArchiveDownloader\ArchiveDownloader\obj\Debug\ArchiveDownloader.pdb
